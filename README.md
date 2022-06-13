@@ -1,1 +1,5 @@
 # Comparison-multiple-distributions-using-R
+
+The purpose of this report is to find differences between population parameters of sports groups based on samples with a small size. To find and evaluate relations between the height means of the players, hypothesis testing techniques are used. Hypotheses regarding the relation of the median value of the height between six sports are proposed. Then, specific tests of significance such as the analysis of variance and the two-sample pooled t-test are performed for those hypotheses. These tests are conducted after checking the respective assumptions and conditions within the sample groups that are involved in this analysis. In addition, some techniques used to analyze small sample sizes and improve the significance level of the results are used.
+
+The used statistical methods as well as the main results can be seen in the .PDF file "Jorge Duran-Comparison-multiple-distributions.pdf". The R code used in this report can be found in "Jorge-Duran-Comparison-multiple-distributions1.R".
